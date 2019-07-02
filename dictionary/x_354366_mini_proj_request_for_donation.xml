@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Request for Donation" max_length="40" name="x_354366_mini_proj_request_for_donation" type="collection">
+        <element label="Blood Group of the patient" mandatory="true" max_length="32" name="blood_group" reference="x_354366_mini_proj_blood_groups" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="dilsukhnagar" label="Area" mandatory="true" max_length="40" name="req_area" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Dilsukhnagar" sequence="0" value="dilsukhnagar"/>
+                <element inactive_on_update="false" label="L B Nagar" sequence="1" value="l b nagar"/>
+                <element inactive_on_update="false" label="Malakpet" sequence="2" value="malakpet"/>
+                <element inactive_on_update="false" label="Kothapet" sequence="3" value="kothapet"/>
+                <element inactive_on_update="false" label="ECIL" sequence="4" value="ecil"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="a" label="Blood Group" mandatory="true" max_length="40" name="req_bloodgroup" type="string">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="0" value="a"/>
+                <element inactive_on_update="false" label="A-" sequence="1" value="a-"/>
+                <element inactive_on_update="false" label="B" sequence="2" value="b"/>
+                <element inactive_on_update="false" label="B-" sequence="3" value="b-"/>
+                <element inactive_on_update="false" label="O" sequence="4" value="o"/>
+                <element inactive_on_update="false" label="O-" sequence="5" value="o-"/>
+                <element inactive_on_update="false" label="AB" sequence="6" value="ab"/>
+                <element inactive_on_update="false" label="AB-" sequence="7" value="ab-"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Email ID" mandatory="true" max_length="40" name="req_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address of the Hospital" max_length="40" name="req_hospital" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="req_name" type="string"/>
+        <element label="Phone Number" mandatory="true" max_length="40" name="req_phone" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="hyderabad" label="State" mandatory="true" max_length="40" name="req_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="requested" label="Status" max_length="40" name="status" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="0" value="requested"/>
+                <element inactive_on_update="false" label="Attended" sequence="1" value="attended"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="blood_group"/>
+        </index>
+    </element>
+</database>

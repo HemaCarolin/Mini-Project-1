@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="donar_area" table="x_354366_mini_proj_blood_donars" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 1</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:14:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b877f07adb12330056e7f53a29961900</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>Choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DilsukhNagar</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>336f38bedb12330056e7f53a29961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>dsnr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:14:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f877f07adb12330056e7f53a29961901</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>L B Nagar</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf6f38bedb12330056e7f53a29961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>lbnagar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:14:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7877f07adb12330056e7f53a29961902</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kothapet</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f6f38bedb12330056e7f53a29961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>kothapet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hayathnagar</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb6f38bedb12330056e7f53a29961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>hayathnagar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Malakpet</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b6f38bedb12330056e7f53a29961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>malakpet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ECIL</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b76f38bedb12330056e7f53a29961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>ecil</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Uppal</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>376f38bedb12330056e7f53a29961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>uppal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>donar_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Balapur</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:49:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b36f38bedb12330056e7f53a29961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:49:01</sys_updated_on>
+            <value>balapur</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>donar_area</element>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:14:07</sys_created_on>
+            <sys_id>f077f07adb12330056e7f53a29961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>donar_area</sys_name>
+            <sys_package display_value="Mini Project" source="x_354366_mini_proj">77b27476db12330056e7f53a29961921</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mini Project">77b27476db12330056e7f53a29961921</sys_scope>
+            <sys_update_name>sys_choice_x_354366_mini_proj_blood_donars_donar_area</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:14:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="blood_group" label="Blood Group of the patient" language="en" table="x_354366_mini_proj_request_for_donation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>blood_group</element>
+            <help/>
+            <hint/>
+            <label>Blood Group of the patient</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_request_for_donation</name>
+            <plural>Blood Group of the patients</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 06:47:27</sys_created_on>
+            <sys_id>3e8a11b2db92330056e7f53a299619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Blood Group of the patient</sys_name>
+            <sys_package display_value="Mini Project" source="x_354366_mini_proj">77b27476db12330056e7f53a29961921</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mini Project">77b27476db12330056e7f53a29961921</sys_scope>
+            <sys_update_name>sys_documentation_x_354366_mini_proj_request_for_donation_blood_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 06:47:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

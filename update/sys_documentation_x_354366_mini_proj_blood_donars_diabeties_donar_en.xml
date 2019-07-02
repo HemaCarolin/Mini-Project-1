@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="diabeties_donar" label="Diabetes(Well controlled)" language="en" table="x_354366_mini_proj_blood_donars">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>diabeties_donar</element>
+            <help/>
+            <hint/>
+            <label>Diabetes(Well controlled)</label>
+            <language>en</language>
+            <name>x_354366_mini_proj_blood_donars</name>
+            <plural>Diabetes(Well controlled)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-01 04:25:43</sys_created_on>
+            <sys_id>261a3cbadb12330056e7f53a29961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Diabetes(Well controlled)</sys_name>
+            <sys_package display_value="Mini Project" source="x_354366_mini_proj">77b27476db12330056e7f53a29961921</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mini Project">77b27476db12330056e7f53a29961921</sys_scope>
+            <sys_update_name>sys_documentation_x_354366_mini_proj_blood_donars_diabeties_donar_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-01 04:25:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

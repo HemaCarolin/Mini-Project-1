@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Blood Donars" max_length="40" name="x_354366_mini_proj_blood_donars" type="collection">
+        <element label="Age" max_length="40" name="age_donar" read_only="true" type="integer"/>
+        <element label="Blood Group" mandatory="true" max_length="32" name="blood_group" reference="x_354366_mini_proj_blood_groups" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="a" label="Blood Group" mandatory="true" max_length="40" name="blood_group_donar" type="string">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="0" value="a"/>
+                <element inactive_on_update="false" label="A-" sequence="1" value="a-"/>
+                <element inactive_on_update="false" label="B" sequence="2" value="b"/>
+                <element inactive_on_update="false" label="B-" sequence="3" value="b-"/>
+                <element inactive_on_update="false" label="O" sequence="4" value="o"/>
+                <element inactive_on_update="false" label="O-" sequence="5" value="o-"/>
+                <element inactive_on_update="false" label="AB" sequence="6" value="ab"/>
+                <element inactive_on_update="false" label="AB-" sequence="7" value="ab-"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="High Bp" mandatory="true" max_length="40" name="bp_donar" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="i dont have diabetes" label="Diabetes(Well controlled)" mandatory="true" max_length="40" name="diabeties_donar" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes well controlled" sequence="0" value="yes well controlled"/>
+                <element inactive_on_update="false" label="Not controlled" sequence="1" value="not controlled"/>
+                <element inactive_on_update="false" label="I dont have diabetes" sequence="2" value="i dont have diabetes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Date of Birth" mandatory="true" max_length="40" name="dob_donar" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="dsnr" label="Area" mandatory="true" max_length="40" name="donar_area" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="DilsukhNagar" sequence="0" value="dsnr"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="L B Nagar" sequence="1" value="lbnagar"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Kothapet" sequence="2" value="kothapet"/>
+                <element inactive_on_update="false" label="Hayathnagar" sequence="3" value="hayathnagar"/>
+                <element inactive_on_update="false" label="Malakpet" sequence="4" value="malakpet"/>
+                <element inactive_on_update="false" label="ECIL" sequence="5" value="ecil"/>
+                <element inactive_on_update="false" label="Uppal" sequence="6" value="uppal"/>
+                <element inactive_on_update="false" label="Balapur" sequence="7" value="balapur"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="dont know" label="Hepatitis" mandatory="true" max_length="40" name="donar_hep" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Don't Know" sequence="0" value="dont know"/>
+                <element inactive_on_update="false" label="Yes" sequence="1" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="2" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="no" label="Under Medication" mandatory="true" max_length="40" name="donar_medication" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="donar_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="hyderabad" label="State" mandatory="true" max_length="40" name="donar_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
+                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="no" label="Tatoos" mandatory="true" max_length="40" name="donar_tatoos" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="email_donar" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="male" label="Gender" mandatory="true" max_length="40" name="gender_donar" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Please Mention any health concerns which are not mentioned above(if any)" max_length="40" name="health_donar" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="dont know" label="HIV" mandatory="true" max_length="40" name="hiv_donar" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Don't Know" sequence="0" value="dont know"/>
+                <element inactive_on_update="false" label="Yes" sequence="1" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="2" value="no"/>
+            </choice>
+        </element>
+        <element label="Phone Number" mandatory="true" max_length="40" name="phone_donar" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="no" label="Transplant Patient" mandatory="true" max_length="40" name="trans_donar" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="Body Piercing (ears eligible)" mandatory="true" max_length="40" name="u_choice_23" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Weight" mandatory="true" max_length="40" name="weight_donar" type="float"/>
+        <index name="index">
+            <element name="blood_group"/>
+        </index>
+    </element>
+</database>

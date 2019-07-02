@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Blood Groups" max_length="40" name="x_354366_mini_proj_blood_groups" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Blood Group" mandatory="true" max_length="40" name="blood_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Donate Blood to" mandatory="true" max_length="40" name="donateto" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Can receive Blood from" mandatory="true" max_length="40" name="receive_from" type="string"/>
+    </element>
+</database>

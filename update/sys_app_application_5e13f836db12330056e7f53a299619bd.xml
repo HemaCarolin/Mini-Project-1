@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Registration for donars</name>
+        <order>100</order>
+        <roles>x_354366_mini_proj.blood_donars_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 03:55:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e13f836db12330056e7f53a299619bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mini Project </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mini Project" source="x_354366_mini_proj">77b27476db12330056e7f53a29961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mini Project">77b27476db12330056e7f53a29961921</sys_scope>
+        <sys_update_name>sys_app_application_5e13f836db12330056e7f53a299619bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-01 05:23:28</sys_updated_on>
+        <title>Mini Project </title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
