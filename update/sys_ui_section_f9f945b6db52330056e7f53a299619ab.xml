@@ -4,13 +4,13 @@
             <element>req_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>e1ab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>ce6790e7dbd2330056e7f53a29961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>req_email</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>65ab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>426790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,111 +32,125 @@
             <element>req_phone</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>e5ab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>c26790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>get_send</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>466790e7dbd2330056e7f53a29961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>req_hospital</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>69ab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>c66790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>e9ab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>4a6790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>blood_group</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>6dab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>ca6790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>edab9db2db92330056e7f53a29961966</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>4e6790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>61ab9db2db92330056e7f53a29961967</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>ce6790e7dbd2330056e7f53a29961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>req_state</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>e1ab9db2db92330056e7f53a29961967</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>426790e7dbd2330056e7f53a29961926</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>req_area</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:52:17</sys_created_on>
-            <sys_id>65ab9db2db92330056e7f53a29961967</sys_id>
+            <sys_created_on>2019-07-03 09:49:34</sys_created_on>
+            <sys_id>c26790e7dbd2330056e7f53a29961926</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_request_for_donation" sys_domain="global" view="Default view">f9f945b6db52330056e7f53a299619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:52:17</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:49:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

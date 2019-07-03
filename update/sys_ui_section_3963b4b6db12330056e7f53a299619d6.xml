@@ -3,22 +3,22 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>b3a99572db92330056e7f53a29961914</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>18559467dbd2330056e7f53a299619a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <text>DOB Format : yyyy-mm-dd</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>bba99572db92330056e7f53a29961914</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>50559467dbd2330056e7f53a299619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <text>Do you know?
 A meal is recommended at least four hours prior to donation. Drink plenty of fluids.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
@@ -27,13 +27,13 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>donar_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>7fa99572db92330056e7f53a29961914</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>14559467dbd2330056e7f53a299619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -41,13 +41,13 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>email_donar</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>ffa99572db92330056e7f53a29961914</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>d8559467dbd2330056e7f53a299619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -55,13 +55,13 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>phone_donar</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>73a99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>5c559467dbd2330056e7f53a299619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -69,13 +69,13 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>.begin_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>f3a99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>dc559467dbd2330056e7f53a299619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -83,13 +83,13 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>donar_state</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>77a99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>50559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -97,13 +97,13 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>gender_donar</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>f7a99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>d0559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -111,27 +111,27 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>dob_donar</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>7ba99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>54559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>b3a99572db92330056e7f53a29961914</element>
+            <element>18559467dbd2330056e7f53a299619a4</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>fba99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>d4559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -139,97 +139,111 @@ A meal is recommended at least four hours prior to donation. Drink plenty of flu
             <element>blood_group</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>7fa99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>58559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>get_send</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>d8559467dbd2330056e7f53a299619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>ffa99572db92330056e7f53a29961915</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>5c559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>donar_area</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>73a99572db92330056e7f53a29961916</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>dc559467dbd2330056e7f53a299619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>age_donar</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>f3a99572db92330056e7f53a29961916</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>50559467dbd2330056e7f53a299619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>weight_donar</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>77a99572db92330056e7f53a29961916</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>d0559467dbd2330056e7f53a299619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>f7a99572db92330056e7f53a29961916</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>54559467dbd2330056e7f53a299619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>bba99572db92330056e7f53a29961914</element>
-            <position>14</position>
+            <element>50559467dbd2330056e7f53a299619a5</element>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:43:42</sys_created_on>
-            <sys_id>7ba99572db92330056e7f53a29961916</sys_id>
+            <sys_created_on>2019-07-03 09:40:27</sys_created_on>
+            <sys_id>d4559467dbd2330056e7f53a299619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_354366_mini_proj_blood_donars" sys_domain="global" view="Default view">3963b4b6db12330056e7f53a299619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:43:42</sys_updated_on>
+            <sys_updated_on>2019-07-03 09:40:27</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>

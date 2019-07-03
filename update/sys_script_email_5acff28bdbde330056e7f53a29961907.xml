@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>Filtering Donars Script</name>
+        <new_lines_to_html>true</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+          /* Optional GlideRecord */ event) {
+	
+	var gr=new GlideRecord('x_354366_mini_proj_blood_donars');
+	gr.addQuery('age_donar','>',17);
+	gr.addQuery('donar_area','=',current.req_area).addOrCondition('donar_state','=',current.req_state);
+	if((current.blood_group.blood_group)=='B+')
+		{
+ gr.addQuery('blood_group.blood_group','=','B+').addOrCondition('blood_group.blood_group','=','B-').addOrCondition('blood_group.blood_group','=','O+').addOrCondition('blood_group.blood_group','=','O-');
+	gr.query();			
+
+		}
+else if((current.blood_group.blood_group)=='O-')
+		{
+		 gr.addQuery('blood_group.blood_group','=','O-');
+	gr.query();		
+		}
+	else if((current.blood_group.blood_group)=='B-')
+		{
+ gr.addQuery('blood_group.blood_group','=','B-').addOrCondition('blood_group.blood_group','=','O-');
+	gr.query();			
+
+		}
+	else if((current.blood_group.blood_group)=='O+')
+		{
+ gr.addQuery('blood_group.blood_group','=','O+').addOrCondition('blood_group.blood_group','=','O-');
+	gr.query();			
+
+		}
+	else if((current.blood_group.blood_group)=='A+')
+		{
+ gr.addQuery('blood_group.blood_group','=','A+').addOrCondition('blood_group.blood_group','=','A-').addOrCondition('blood_group.blood_group','=','O-').addOrCondition('blood_group.blood_group','=','O+');
+	gr.query();			
+
+		}
+	else if((current.blood_group.blood_group)=='A-')
+		{
+  gr.addQuery('blood_group.blood_group','=','A-').addOrCondition('blood_group.blood_group','=','O-');
+	gr.query();			
+
+		}
+	else if((current.blood_group.blood_group)=='AB-')
+		{
+ gr.addQuery('blood_group.blood_group','=','AB-').addOrCondition('blood_group.blood_group','=','O-').addOrCondition('blood_group.blood_group','=','A-').addOrCondition('blood_group.blood_group','=','B-');
+	gr.query();			
+
+		}
+	else 
+		{
+			template.print("You can receive blood for any blood group");
+		}
+	if(gr.hasNext())
+		{
+			template.print("Hello "+current.req_name+", <br\>");
+			template.print("You have requested for donors with blood group  "+current.blood_group.blood_group+". <br\>");
+		 template.print("The following is the list of matched Donors.<br\>");
+
+	while(gr.next())
+		{
+			template.print("<b>Name :</b> "+gr.getDisplayValue('donar_name')+"<br\>");
+			template.print("<b>Email :</b> "+gr.getDisplayValue('email_donar')+"<br\>");
+			template.print("<b>Phone :</b>"+gr.getDisplayValue('phone_donar')+"<br\>");
+			template.print("<b>Blood Group :</b> "+gr.getDisplayValue('blood_group')+"<br\>");
+			template.print("<b>Area :</b> "+gr.getDisplayValue('donar_area')+"<br\>");
+	
+			template.print("<br\> <br\>");
+			gs.info("Hi "+gr.getDisplayValue('donar_name'));
+		}
+		}
+	else
+		{
+			template.print("There are no records that match with your blood group");
+		}
+	
+	gs.info("Query of filter is executed");
+	
+          // Add your code here
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-02 08:52:29</sys_created_on>
+        <sys_id>5acff28bdbde330056e7f53a29961907</sys_id>
+        <sys_mod_count>83</sys_mod_count>
+        <sys_name>Filtering Donars Script</sys_name>
+        <sys_package display_value="Mini Project" source="x_354366_mini_proj">77b27476db12330056e7f53a29961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mini Project">77b27476db12330056e7f53a29961921</sys_scope>
+        <sys_update_name>sys_script_email_5acff28bdbde330056e7f53a29961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-03 09:55:34</sys_updated_on>
+    </sys_script_email>
+</record_update>

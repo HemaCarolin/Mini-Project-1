@@ -2,18 +2,6 @@
     <element label="Blood Donars" max_length="40" name="x_354366_mini_proj_blood_donars" type="collection">
         <element label="Age" max_length="40" name="age_donar" read_only="true" type="integer"/>
         <element label="Blood Group" mandatory="true" max_length="32" name="blood_group" reference="x_354366_mini_proj_blood_groups" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="a" label="Blood Group" mandatory="true" max_length="40" name="blood_group_donar" type="string">
-            <choice>
-                <element inactive_on_update="false" label="A" sequence="0" value="a"/>
-                <element inactive_on_update="false" label="A-" sequence="1" value="a-"/>
-                <element inactive_on_update="false" label="B" sequence="2" value="b"/>
-                <element inactive_on_update="false" label="B-" sequence="3" value="b-"/>
-                <element inactive_on_update="false" label="O" sequence="4" value="o"/>
-                <element inactive_on_update="false" label="O-" sequence="5" value="o-"/>
-                <element inactive_on_update="false" label="AB" sequence="6" value="ab"/>
-                <element inactive_on_update="false" label="AB-" sequence="7" value="ab-"/>
-            </choice>
-        </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="yes" label="High Bp" mandatory="true" max_length="40" name="bp_donar" type="string">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
